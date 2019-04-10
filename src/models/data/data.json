@@ -1,0 +1,437 @@
+[
+  {
+    "id": 1,
+    "year": 2010,
+    "make": "Nissan",
+    "model": "Frontier",
+    "product_name": "2010 Nissan Frontier",
+    "vin": "1FTWX3B50AE646639",
+    "colors_hex": [
+      "#3194bd",
+      "#fe61a2",
+      "#a80fb2"
+    ],
+    "main_img": "https://img.autobytel.com/car-reviews/autobytel/131142-japanese-supercars-past-present-and-future/2017_Nissan_GT_R_Track_Silver.jpg",
+    "product_imgs": [
+      "https://cars.usnews.com/static/images/Auto/izmo/i5054/2015_toyota_corolla_frontseat.jpg",
+      "https://cars.usnews.com/static/images/Auto/izmo/i5054/2015_toyota_corolla_dashboard.jpg",
+      "https://www.priorityinfiniti.com/inventoryphotos/347/2t1burhe5fc454678/ip/27.jpg"
+    ],
+    "price": 11774.61,
+    "discount": 0.24,
+    "tag_line": "Automated system-worthy application",
+    "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+    "financing": true,
+    "downpayment": 0.25,
+    "transmission": "Manual",
+    "doors": "6-Door",
+    "type": "SUV",
+    "mileage": 17477
+  },
+  {
+    "id": 2,
+    "year": 1998,
+    "make": "Volvo",
+    "model": "S90",
+    "product_name": "1998 Volvo S90",
+    "vin": "5FNYF3H42EB248608",
+    "colors_hex": [
+      "#b73b91",
+      "#347bb2",
+      "#a8c38e"
+    ],
+    "main_img": "https://img.autobytel.com/2019/acura/ilx/2-800-oemexteriorfront1300-89658.jpg",
+    "product_imgs": [
+      "https://cars.usnews.com/static/images/Auto/izmo/i5054/2015_toyota_corolla_frontseat.jpg",
+      "https://cars.usnews.com/static/images/Auto/izmo/i5054/2015_toyota_corolla_dashboard.jpg",
+      "https://www.priorityinfiniti.com/inventoryphotos/347/2t1burhe5fc454678/ip/27.jpg"
+    ],
+    "price": 3743.57,
+    "discount": 0.26,
+    "tag_line": "Automated cohesive hierarchy",
+    "description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+    "financing": false,
+    "downpayment": 0.29,
+    "transmission": "Automatic",
+    "doors": "4-Door",
+    "type": "Sedan",
+    "mileage": 76421
+  },
+  {
+    "id": 3,
+    "year": 2006,
+    "make": "Honda",
+    "model": "S2000",
+    "product_name": "2006 Honda S2000",
+    "vin": "4JGBF2FE9AA950676",
+    "colors_hex": [
+      "#b78813",
+      "#4cf8c6",
+      "#e45ce7"
+    ],
+    "main_img": "https://img.autobytel.com/2019/acura/rlx-sport-hybrid/2-800-oemexteriorfront1300-88498.jpg",
+    "product_imgs": [
+      "https://www.priorityinfiniti.com/inventoryphotos/347/2t1burhe5fc454678/ip/27.jpg",
+      "https://cars.usnews.com/static/images/Auto/izmo/i5054/2015_toyota_corolla_frontseat.jpg",
+      "https://cars.usnews.com/static/images/Auto/izmo/i5054/2015_toyota_corolla_dashboard.jpg"
+    ],
+    "price": 4527.04,
+    "discount": 0.18,
+    "tag_line": "Function-based bottom-line alliance",
+    "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
+    "financing": true,
+    "downpayment": 0.25,
+    "transmission": "Manual",
+    "doors": "4-Door",
+    "type": "SUV",
+    "mileage": 94037
+  },
+  {
+    "id": 4,
+    "year": 1992,
+    "make": "Chevrolet",
+    "model": "Suburban 2500",
+    "product_name": "1992 Chevrolet Suburban 2500",
+    "vin": "1VWAH7A32EC965220",
+    "colors_hex": [
+      "#104e9e",
+      "#f51615",
+      "#76d7c2"
+    ],
+    "main_img": "https://img.autobytel.com/2019/audi/a3/2-800-oemexteriorfront1300-89668.jpg",
+    "product_imgs": [
+      "https://www.priorityinfiniti.com/inventoryphotos/347/2t1burhe5fc454678/ip/27.jpg",
+      "https://cars.usnews.com/static/images/Auto/izmo/i5054/2015_toyota_corolla_dashboard.jpg",
+      "https://cars.usnews.com/static/images/Auto/izmo/i5054/2015_toyota_corolla_frontseat.jpg"
+    ],
+    "price": 12572.45,
+    "discount": 0.24,
+    "tag_line": "Function-based intangible website",
+    "description": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
+    "financing": true,
+    "downpayment": 0.21,
+    "transmission": "Manual",
+    "doors": "6-Door",
+    "type": "Truck",
+    "mileage": 62007
+  },
+  {
+    "id": 5,
+    "year": 2013,
+    "make": "Chevrolet",
+    "model": "Tahoe",
+    "product_name": "2013 Chevrolet Tahoe",
+    "vin": "WAUWFAFR5EA372744",
+    "colors_hex": [
+      "#e7386a",
+      "#a6e50a",
+      "#5dd82a"
+    ],
+    "main_img": "https://img.autobytel.com/2019/audi/a4/2-800-oemexteriorfront1300-89663.jpg",
+    "product_imgs": [
+      "https://www.priorityinfiniti.com/inventoryphotos/347/2t1burhe5fc454678/ip/27.jpg",
+      "https://cars.usnews.com/static/images/Auto/izmo/i5054/2015_toyota_corolla_dashboard.jpg",
+      "https://cars.usnews.com/static/images/Auto/izmo/i5054/2015_toyota_corolla_frontseat.jpg"
+    ],
+    "price": 2848.08,
+    "discount": 0.15,
+    "tag_line": "Team-oriented explicit knowledge user",
+    "description": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+    "financing": true,
+    "downpayment": 0.28,
+    "transmission": "Automatic",
+    "doors": "6-Door",
+    "type": "Truck",
+    "mileage": 29247
+  },
+  {
+    "id": 6,
+    "year": 1993,
+    "make": "Audi",
+    "model": "90",
+    "product_name": "1993 Audi 90",
+    "vin": "1GYEE53A690481338",
+    "colors_hex": [
+      "#db803f",
+      "#eacf83",
+      "#33bba8"
+    ],
+    "main_img": "https://img.autobytel.com/2019/buick/enclave/2-800-oemexteriorfront1300-87398.jpg",
+    "product_imgs": [
+      "https://www.priorityinfiniti.com/inventoryphotos/347/2t1burhe5fc454678/ip/27.jpg",
+      "https://cars.usnews.com/static/images/Auto/izmo/i5054/2015_toyota_corolla_frontseat.jpg",
+      "https://cars.usnews.com/static/images/Auto/izmo/i5054/2015_toyota_corolla_dashboard.jpg"
+    ],
+    "price": 8506.26,
+    "discount": 0.25,
+    "tag_line": "Synergistic motivating archive",
+    "description": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+    "financing": true,
+    "downpayment": 0.23,
+    "transmission": "Manual",
+    "doors": "4-Door",
+    "type": "Sedan",
+    "mileage": 62134
+  },
+  {
+    "id": 7,
+    "year": 2004,
+    "make": "Pontiac",
+    "model": "Montana",
+    "product_name": "2004 Pontiac Montana",
+    "vin": "W04GS5EC9B1555724",
+    "colors_hex": [
+      "#0436aa",
+      "#3d5460",
+      "#a371bd"
+    ],
+    "main_img": "https://img.autobytel.com/2019/ford/ecosport/2-800-oemexteriorfront1300-88597.jpg",
+    "product_imgs": [
+      "https://cars.usnews.com/static/images/Auto/izmo/i5054/2015_toyota_corolla_frontseat.jpg",
+      "https://cars.usnews.com/static/images/Auto/izmo/i5054/2015_toyota_corolla_dashboard.jpg",
+      "https://www.priorityinfiniti.com/inventoryphotos/347/2t1burhe5fc454678/ip/27.jpg"
+    ],
+    "price": 5651.62,
+    "discount": 0.28,
+    "tag_line": "Assimilated tertiary collaboration",
+    "description": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+    "financing": false,
+    "downpayment": 0.24,
+    "transmission": "Manual",
+    "doors": "6-Door",
+    "type": "SUV",
+    "mileage": 134643
+  },
+  {
+    "id": 8,
+    "year": 2010,
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "product_name": "2010 Chevrolet Camaro",
+    "vin": "1GKUKFDJ5AR806435",
+    "colors_hex": [
+      "#d0abe4",
+      "#60cf2d",
+      "#c0f880"
+    ],
+    "main_img": "https://img.autobytel.com/2019/gmc/terrain/2-800-oemexteriorfront1300-87607.jpg",
+    "product_imgs": [
+      "https://cars.usnews.com/static/images/Auto/izmo/i5054/2015_toyota_corolla_dashboard.jpg",
+      "https://cars.usnews.com/static/images/Auto/izmo/i5054/2015_toyota_corolla_frontseat.jpg",
+      "https://www.priorityinfiniti.com/inventoryphotos/347/2t1burhe5fc454678/ip/27.jpg"
+    ],
+    "price": 10183.72,
+    "discount": 0.26,
+    "tag_line": "Universal leading edge project",
+    "description": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
+    "financing": false,
+    "downpayment": 0.22,
+    "transmission": "Automatic",
+    "doors": "4-Door",
+    "type": "Crossover",
+    "mileage": 42612
+  },
+  {
+    "id": 9,
+    "year": 1994,
+    "make": "Lotus",
+    "model": "Esprit",
+    "product_name": "1994 Lotus Esprit",
+    "vin": "1G6DM5EY8B0917341",
+    "colors_hex": [
+      "#ccadeb",
+      "#2e6c6a",
+      "#ca499a"
+    ],
+    "main_img": "https://img.autobytel.com/2019/hyundai/kona/2-800-oemexteriorfront1300-89515.jpg",
+    "product_imgs": [
+      "https://www.priorityinfiniti.com/inventoryphotos/347/2t1burhe5fc454678/ip/27.jpg",
+      "https://cars.usnews.com/static/images/Auto/izmo/i5054/2015_toyota_corolla_frontseat.jpg",
+      "https://cars.usnews.com/static/images/Auto/izmo/i5054/2015_toyota_corolla_dashboard.jpg"
+    ],
+    "price": 8784.34,
+    "discount": 0.24,
+    "tag_line": "Re-contextualized 24/7 instruction set",
+    "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+    "financing": false,
+    "downpayment": 0.21,
+    "transmission": "Manual",
+    "doors": "4-Door",
+    "type": "Sedan",
+    "mileage": 24994
+  },
+  {
+    "id": 10,
+    "year": 1992,
+    "make": "Pontiac",
+    "model": "Trans Sport",
+    "product_name": "1992 Pontiac Trans Sport",
+    "vin": "1D4PT2GK5AW238596",
+    "colors_hex": [
+      "#7c42dc",
+      "#131464",
+      "#cc9f7f"
+    ],
+    "main_img": "https://img.autobytel.com/2019/infiniti/qx30/2-800-oemexteriorfront1300-89953.jpg",
+    "product_imgs": [
+      "https://cars.usnews.com/static/images/Auto/izmo/i5054/2015_toyota_corolla_dashboard.jpg",
+      "https://www.priorityinfiniti.com/inventoryphotos/347/2t1burhe5fc454678/ip/27.jpg",
+      "https://cars.usnews.com/static/images/Auto/izmo/i5054/2015_toyota_corolla_frontseat.jpg"
+    ],
+    "price": 7685.72,
+    "discount": 0.25,
+    "tag_line": "Integrated hybrid hardware",
+    "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+    "financing": true,
+    "downpayment": 0.25,
+    "transmission": "Manual",
+    "doors": "6-Door",
+    "type": "Crossover",
+    "mileage": 135974
+  },
+  {
+    "id": 11,
+    "year": 1985,
+    "make": "Mitsubishi",
+    "model": "Cordia",
+    "product_name": "1985 Mitsubishi Cordia",
+    "vin": "KNDPB3AC7F7944252",
+    "colors_hex": [
+      "#e2d9fc",
+      "#111ca9",
+      "#e62ebe"
+    ],
+    "main_img": "https://img.autobytel.com/car-reviews/autobytel/130863-sporty-coupes/2016-Chevrolet-Camaro-on-road-blue.jpg",
+    "product_imgs": [
+      "https://cars.usnews.com/static/images/Auto/izmo/i5054/2015_toyota_corolla_dashboard.jpg",
+      "https://cars.usnews.com/static/images/Auto/izmo/i5054/2015_toyota_corolla_frontseat.jpg",
+      "https://www.priorityinfiniti.com/inventoryphotos/347/2t1burhe5fc454678/ip/27.jpg"
+    ],
+    "price": 12888.44,
+    "discount": 0.25,
+    "tag_line": "Secured leading edge analyzer",
+    "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
+    "financing": true,
+    "downpayment": 0.29,
+    "transmission": "Manual",
+    "doors": "4-Door",
+    "type": "SUV",
+    "mileage": 64064
+  },
+  {
+    "id": 12,
+    "year": 1999,
+    "make": "Lexus",
+    "model": "LX",
+    "product_name": "1999 Lexus LX",
+    "vin": "1G6DV1EP0B0360745",
+    "colors_hex": [
+      "#f89cb0",
+      "#9ed08c",
+      "#66098d"
+    ],
+    "main_img": "https://img.autobytel.com/car-reviews/autobytel/10024-best-two-door-cars/ChallengerEdit.jpg",
+    "product_imgs": [
+      "https://cars.usnews.com/static/images/Auto/izmo/i5054/2015_toyota_corolla_frontseat.jpg",
+      "https://www.priorityinfiniti.com/inventoryphotos/347/2t1burhe5fc454678/ip/27.jpg",
+      "https://cars.usnews.com/static/images/Auto/izmo/i5054/2015_toyota_corolla_dashboard.jpg"
+    ],
+    "price": 6553.6,
+    "discount": 0.15,
+    "tag_line": "Grass-roots non-volatile collaboration",
+    "description": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+    "financing": false,
+    "downpayment": 0.29,
+    "transmission": "Manual",
+    "doors": "6-Door",
+    "type": "Truck",
+    "mileage": 138893
+  },
+  {
+    "id": 13,
+    "year": 2005,
+    "make": "Honda",
+    "model": "Element",
+    "product_name": "2005 Honda Element",
+    "vin": "2HNYB1H40CH303462",
+    "colors_hex": [
+      "#86f27e",
+      "#25b911",
+      "#fc890c"
+    ],
+    "main_img": "https://img.autobytel.com/car-reviews/autobytel/131579-10-cars-with-autopilot/2016-Tesla-Model-S-on-road-front-grille.jpg",
+    "product_imgs": [
+      "https://cars.usnews.com/static/images/Auto/izmo/i5054/2015_toyota_corolla_frontseat.jpg",
+      "https://cars.usnews.com/static/images/Auto/izmo/i5054/2015_toyota_corolla_dashboard.jpg",
+      "https://www.priorityinfiniti.com/inventoryphotos/347/2t1burhe5fc454678/ip/27.jpg"
+    ],
+    "price": 3268.84,
+    "discount": 0.17,
+    "tag_line": "Reactive directional system engine",
+    "description": "Fusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
+    "financing": false,
+    "downpayment": 0.29,
+    "transmission": "Manual",
+    "doors": "4-Door",
+    "type": "Truck",
+    "mileage": 110728
+  },
+  {
+    "id": 14,
+    "year": 1995,
+    "make": "Chevrolet",
+    "model": "Sportvan G20",
+    "product_name": "1995 Chevrolet Sportvan G20",
+    "vin": "WBAUP7C51CV079955",
+    "colors_hex": [
+      "#869a8a",
+      "#b9b588",
+      "#82894b"
+    ],
+    "main_img": "https://img.autobytel.com/2015/lexus/rc-350/2-800-oemexteriorfront1300-76451.jpg",
+    "product_imgs": [
+      "https://cars.usnews.com/static/images/Auto/izmo/i5054/2015_toyota_corolla_frontseat.jpg",
+      "https://cars.usnews.com/static/images/Auto/izmo/i5054/2015_toyota_corolla_dashboard.jpg",
+      "https://www.priorityinfiniti.com/inventoryphotos/347/2t1burhe5fc454678/ip/27.jpg"
+    ],
+    "price": 9441.31,
+    "discount": 0.23,
+    "tag_line": "Implemented leading edge knowledge base",
+    "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+    "financing": true,
+    "downpayment": 0.23,
+    "transmission": "Automatic",
+    "doors": "4-Door",
+    "type": "Sedan",
+    "mileage": 62840
+  },
+  {
+    "id": 15,
+    "year": 2006,
+    "make": "GMC",
+    "model": "Sierra 3500HD",
+    "product_name": "2006 GMC Sierra 3500HD",
+    "vin": "WA1VFBFL6DA204930",
+    "colors_hex": [
+      "#5a3a4a",
+      "#5f6bb4",
+      "#a99580"
+    ],
+    "main_img": "https://img.autobytel.com/car-reviews/autobytel/130988-10-most-comfortable-compact-cars/2016-Chevrolet-Cruze.jpg",
+    "product_imgs": [
+      "https://cars.usnews.com/static/images/Auto/izmo/i5054/2015_toyota_corolla_dashboard.jpg",
+      "https://www.priorityinfiniti.com/inventoryphotos/347/2t1burhe5fc454678/ip/27.jpg",
+      "https://cars.usnews.com/static/images/Auto/izmo/i5054/2015_toyota_corolla_frontseat.jpg"
+    ],
+    "price": 2761.43,
+    "discount": 0.22,
+    "tag_line": "Down-sized regional parallelism",
+    "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "financing": true,
+    "downpayment": 0.25,
+    "transmission": "Automatic",
+    "doors": "6-Door",
+    "type": "Crossover",
+    "mileage": 55622
+  }
+]
