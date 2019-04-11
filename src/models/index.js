@@ -6,11 +6,12 @@ const get = (id) => {
   const errors = []
   const data = read()
   const entry = data.find(e => e.id === id)
-
+  
   if (!entry) {
     errors.push(`${id} doesn't exist`)
     return { errors }
   }
+
   return entry
 }
 

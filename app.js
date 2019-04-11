@@ -1,13 +1,15 @@
 const express = require('express')
 const app = express()
+const cors = require('cors')
 const morgan = require('morgan')
 const port = process.env.PORT || 3000
 
 app.use(express.json())
-if (process.env.NODE_ENV === 'development') app.use(morgan('dev'))
+app.use(cors())
+if (process.env.NODE_ENV !== 'production') app.use(morgan('dev'))
 
-const data = require('./src/routes/index')
-app.use('/data', data)
+const cars = require('./src/routes/index')
+app.use('/cars', cars)
 
 app.use((req, res, next) => next({ status: 404, message: { error: 'Not Found' } }))
 

@@ -2,7 +2,7 @@ const model = require('../models')
 
 const read = (req, res, next) => {
   const data = model.get(req.params.id)
-  if (data.errors) return next({ status: 400, type: `not found`, errors: data.errors })
+  if (data.errors) return next({ status: 400, type: `bad request`, errors: data.errors })
   res.status(200).json(data)
 }
 
